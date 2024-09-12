@@ -1,4 +1,4 @@
-#include "../headers/header.h"
+#include "../headerFiles/header.h"
 
 /**
  * drawRect - draw a rectangle

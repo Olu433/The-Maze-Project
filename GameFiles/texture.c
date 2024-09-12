@@ -1,4 +1,4 @@
-#include "../headers/header.h"
+#include "../headerFiles/header.h"
 
 static const char *textureFileNames[NUM_TEXTURES] = {
 	"./images/redbrick.png",
