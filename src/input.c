@@ -1,4 +1,4 @@
-#include "../headerFiles/header.h"
+#include "../headers/header.h"
 
 /**
  * SDL_KEYDOWN_FUNC - process input when a key is down

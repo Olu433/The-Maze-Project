@@ -1,4 +1,4 @@
-#include "../headerFiles/header.h"
+#include "../headers/header.h"
 
 /**
  * distanceBetweenPoints - Finds horizontal intersection with the wall
