@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
 
-gcc src/*.c -Wall -Werror -Wextra -pedantic $(sdl2-config --cflags --libs) \
--o 'The Maze Project'
-# -lSDL2main -lSDL2
+$ gcc -Wall -Werror -Wextra -pedantic ./src/*.c -lm -o maze `sdl2-config --cflags` `sdl2-config --libs`;
